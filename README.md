@@ -2,7 +2,7 @@
 
 <img width="1467" alt="Screenshot 2024-02-05 at 3 40 28 PM" src="https://github.com/Seou0912/24_02_Flask_Class/assets/151927766/a2a99f08-288c-4ebf-a8cd-9bc106f223f4">
 
-# 2024-02-06 Flask 2st day.
+# 2024-02-06 Flask 2nd day.
  ## Rest API
  
 - <img width="1705" alt="Screenshot 2024-02-06 at 11 59 48 AM" src="https://github.com/Seou0912/24_02_Flask_Class/assets/151927766/a80794bb-0427-4aae-bfca-c02b8224788b">
