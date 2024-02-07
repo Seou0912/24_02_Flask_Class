@@ -46,3 +46,8 @@
   
 <img width="1544" alt="Screenshot 2024-02-06 at 2 11 30 PM" src="https://github.com/Seou0912/24_02_Flask_Class/assets/151927766/74d444fc-03b6-4a61-8db2-0f6f306f07a9">
 
+# 2024-02-07 flask-SQLAlchemy
+![image](https://github.com/Seou0912/24_02_Flask_Class/assets/151927766/24290782-2d51-4a60-9212-48fc9632c579)
+
+<img width="999" alt="Screenshot 2024-02-07 at 6 43 19 PM" src="https://github.com/Seou0912/24_02_Flask_Class/assets/151927766/127d2f37-af33-4b20-8318-3bbc8bfc2130">
+
