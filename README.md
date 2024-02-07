@@ -51,3 +51,5 @@
 
 <img width="999" alt="Screenshot 2024-02-07 at 6 43 19 PM" src="https://github.com/Seou0912/24_02_Flask_Class/assets/151927766/127d2f37-af33-4b20-8318-3bbc8bfc2130">
 
+# 2024-02-08 Bolg Practice
+<img width="999" alt="Screenshot 2024-02-07 at 7 18 15 PM" src="https://github.com/Seou0912/24_02_Flask_Class/assets/151927766/f10d7070-0cc4-4ef6-b5f1-8b60f3308b47">
