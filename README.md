@@ -1,4 +1,4 @@
-# 2024-02-05 Flask 1st day.
+# 2024-02-05 Flask 1st day. ~ 02-13 5th last day 
 
 <img width="1467" alt="Screenshot 2024-02-05 at 3 40 28 PM" src="https://github.com/Seou0912/24_02_Flask_Class/assets/151927766/a2a99f08-288c-4ebf-a8cd-9bc106f223f4">
 
@@ -53,3 +53,45 @@
 
 # 2024-02-08 Bolg Practice
 <img width="999" alt="Screenshot 2024-02-07 at 7 18 15 PM" src="https://github.com/Seou0912/24_02_Flask_Class/assets/151927766/f10d7070-0cc4-4ef6-b5f1-8b60f3308b47">
+
+# 2024-02-13 Flask last day
+## Flask-login
+
+<img width="1478" alt="Screenshot 2024-02-13 at 12 05 28 PM" src="https://github.com/Seou0912/24_02_Flask_Class/assets/151927766/7e545177-c28b-4336-ad5f-c82918793c3c">
+
+<img width="1478" alt="Screenshot 2024-02-13 at 12 05 40 PM" src="https://github.com/Seou0912/24_02_Flask_Class/assets/151927766/d8813d52-aadf-4b22-ad04-6262f3ff2235">
+
+<img width="1478" alt="Screenshot 2024-02-13 at 12 07 33 PM" src="https://github.com/Seou0912/24_02_Flask_Class/assets/151927766/2bb4e933-ab11-4fdf-8124-ecde06a5e778">
+
+
+## Flask JWT-Extended
+
+<img width="1478" alt="Screenshot 2024-02-13 at 12 47 11 PM" src="https://github.com/Seou0912/24_02_Flask_Class/assets/151927766/dbc3e444-06db-4803-8287-d5ee1e74878e">
+
+<img width="1478" alt="Screenshot 2024-02-13 at 12 47 31 PM" src="https://github.com/Seou0912/24_02_Flask_Class/assets/151927766/49347bcb-85f9-4c5a-885f-c933559a5cf2">
+
+## Mini project _ Flask & Jinja 
+
+<img width="1024" alt="Screenshot 2024-02-13 at 12 53 21 PM" src="https://github.com/Seou0912/24_02_Flask_Class/assets/151927766/182f5d1f-d2da-4883-b8d4-5147dfb72040">
+
+<img width="1024" alt="Screenshot 2024-02-13 at 12 54 14 PM" src="https://github.com/Seou0912/24_02_Flask_Class/assets/151927766/2227710c-504c-4df2-9fa7-b5836d24611d">
+<img width="1024" alt="Screenshot 2024-02-13 at 12 54 19 PM" src="https://github.com/Seou0912/24_02_Flask_Class/assets/151927766/c02b57ff-6292-4f03-94aa-114b96ef2105">
+
+<img width="1024" alt="Screenshot 2024-02-13 at 12 54 35 PM" src="https://github.com/Seou0912/24_02_Flask_Class/assets/151927766/48afe366-d63f-45c9-821b-cd1056c29cc7">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
