@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>User List</title>
+  </head>
+  <body>
+    <h1>User List</h1>
+    <ul>
+      {% for user in users %}
+      <li>{{ user.username }}</li>
+      <ul>
+        {% for post in user.posts %}
+        <li>{{ post.title }} - Likes: {{ post.likes }}</li>
+        {% endfor %}
+      </ul>
+      {% endfor %}
+    </ul>
+    <h2>Add User</h2>
+    <form action="/users" method="POST">
+      <label for="username">Username:</label>
+      <input type="text" id="username" name="username" />
+      <input type="submit" value="Add" />
+    </form>
+    <h2>Delete User</h2>
+    <form action="/users/<username>" method="DELETE">
+      <label for="delete-username">Username:</label>
+      <input type="text" id="delete-username" name="username" />
+      <input type="submit" value="Delete" />
+    </form>
+  </body>
+</html>
